@@ -1,4 +1,6 @@
-# @w11k/git-info
+# @terrycoughlan/git-info
+
+This project has been forked from @w11k/git-info and has been updated to angular 16
 
 This schematic fro the angular-cli let's you easily setup a workflow that allows you to access the git-information in your Angular App.
 Read our detailed [blog post](https://www.thecodecampus.de/blog/display-the-version-and-git-hash-in-angular) about the topic.
@@ -7,7 +9,7 @@ Read our detailed [blog post](https://www.thecodecampus.de/blog/display-the-vers
 
 Add this schematic to your project using the `ng add` command
 ```bash
-ng add @w11k/git-info
+ng add @terrycoughlan/git-info
 ```
 
 This will setup everything you need. We will automatically
